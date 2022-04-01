@@ -1,4 +1,5 @@
 import numpy as np
+import copy
 
 def layer_sizes(X, Y):
 
